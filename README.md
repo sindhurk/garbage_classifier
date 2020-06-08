@@ -13,5 +13,7 @@ Hit 'q' to stop the video
 
 The output video is saved a test.avi
 
+*Make sure you are using python 3.6 or above*
+
 #### Note
 Make sure the background is plain, with less noise
